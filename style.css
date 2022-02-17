@@ -1,0 +1,39 @@
+.main{
+    background-color: white;
+    width: 1440px;
+    border: none;
+}
+header{
+    padding:30px 140px 30px 113px;
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    border: none;
+}
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    margin-right: 40px;
+    color: #B08EAD ;
+    font-size: 23px;
+}
+.first{
+    background-color: #C9ADC6;
+    background-image: url("img/Background-first.svg");
+    height: 817px;
+}
+
+.pic1{
+    position: relative;
+    left: 178px;
+    top: 72px;
+}
+.content-first{
+    width: 425px;
+    height: 450px;
+    border: none;
+    background-color: #B08EAD;
+    position: absolute;
+}
+
+
